@@ -1,0 +1,46 @@
+.comments_wrapper{
+display: block;
+height: 400px;}
+
+
+.form {
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: center;
+align-content: space-around;
+margin-left: auto;
+margin-right: auto;
+height: 350px;
+}
+
+.comment {
+display: block;
+box-sizing: border-box;
+width: 500px;
+height: 250px;
+
+}
+
+.user_name {
+display: block;
+box-sizing: border-box;
+width: 500px;
+height: 30px;
+
+}
+
+.submit_button {
+display: block;
+box-sizing: border-box;
+background-color: rgba(250,180,0,0.5);
+width: 200px;
+height: 50px;
+border-width: 5px;
+border-color: rgba(256,180,0,1);
+border-radius: 10px;
+
+}
+
+
+
